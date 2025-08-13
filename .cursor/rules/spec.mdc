@@ -1,0 +1,4 @@
+---
+alwaysApply: true
+---
+When starting new conversations, read through SPEC.md. You are to work on the specific capabilities in SPEC.md culminating in the development of a test and verifying that it can perform the capability defined in the use case. After completing the implementation and verifying with a test, mark it complete within spec.md.
