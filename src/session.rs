@@ -4,7 +4,7 @@ use anyhow::{Context, Result};
 use dirs::data_dir;
 use serde::{Deserialize, Serialize};
 use std::fs::{self, OpenOptions};
-use std::io::{BufRead, Write as _};
+use std::io::Write as _;
 use std::path::{Path, PathBuf};
 use std::time::{SystemTime, UNIX_EPOCH};
 
